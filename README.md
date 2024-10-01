@@ -2,7 +2,7 @@
 
 Aplicação para consulta de endereço por CEP ou por dados de endereço (estado, cidade e rua).
 
-**Deploy**: https://github.com/bobmw/consultor_de_endereco
+**Deploy**: https://bobmw.github.io/consultor_de_endereco/
 
 **Teste Automatizado**: https://github.com/bobmw/automacao_consultor_de_endereco
 
